@@ -1,6 +1,8 @@
 use std::path::PathBuf;
 
 use structopt::StructOpt;
+mod scanner;
+mod util;
 
 #[derive(Debug, StructOpt)]
 #[structopt(name = "rustdirscan", about = "web sensitive information scanner.")]
@@ -17,5 +19,8 @@ struct Opt {
 }
 fn main() {
     let opt = Opt::from_args();
-    println!("{:?}", opt);
+    
+    let payloads = util::get_payloads(opt.poc_path.to_str());
+
+    let scanner = scanner::Scanner::new(opt.url, payloads)
 }
