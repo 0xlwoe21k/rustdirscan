@@ -1,0 +1,13 @@
+f:\code\rustdirscan\target\debug\deps\quote-3f92d86bcc331c28.rmeta: C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\lib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\ext.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\format.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\ident_fragment.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\to_tokens.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\runtime.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\spanned.rs
+
+f:\code\rustdirscan\target\debug\deps\libquote-3f92d86bcc331c28.rlib: C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\lib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\ext.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\format.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\ident_fragment.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\to_tokens.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\runtime.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\spanned.rs
+
+f:\code\rustdirscan\target\debug\deps\quote-3f92d86bcc331c28.d: C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\lib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\ext.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\format.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\ident_fragment.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\to_tokens.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\runtime.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\spanned.rs
+
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\lib.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\ext.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\format.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\ident_fragment.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\to_tokens.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\runtime.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.18\src\spanned.rs:

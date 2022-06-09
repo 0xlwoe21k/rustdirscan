@@ -1,0 +1,12 @@
+f:\code\rustdirscan\target\debug\deps\proc_macro2-e753a09dad2e9007.rmeta: C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\lib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\marker.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\parse.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\detection.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\fallback.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\wrapper.rs
+
+f:\code\rustdirscan\target\debug\deps\libproc_macro2-e753a09dad2e9007.rlib: C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\lib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\marker.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\parse.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\detection.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\fallback.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\wrapper.rs
+
+f:\code\rustdirscan\target\debug\deps\proc_macro2-e753a09dad2e9007.d: C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\lib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\marker.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\parse.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\detection.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\fallback.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\wrapper.rs
+
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\lib.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\marker.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\parse.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\detection.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\fallback.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.39\src\wrapper.rs:
