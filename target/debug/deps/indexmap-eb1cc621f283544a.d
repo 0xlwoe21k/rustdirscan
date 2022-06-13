@@ -1,0 +1,13 @@
+f:\code\rustdirscan\target\debug\deps\indexmap-eb1cc621f283544a.rmeta: C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\lib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\macros.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\equivalent.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\mutable_keys.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\util.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\map.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\map\core.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\map\core\raw.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\set.rs
+
+f:\code\rustdirscan\target\debug\deps\indexmap-eb1cc621f283544a.d: C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\lib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\macros.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\equivalent.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\mutable_keys.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\util.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\map.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\map\core.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\map\core\raw.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\set.rs
+
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\lib.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\macros.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\equivalent.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\mutable_keys.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\util.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\map.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\map\core.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\map\core\raw.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.2\src\set.rs:

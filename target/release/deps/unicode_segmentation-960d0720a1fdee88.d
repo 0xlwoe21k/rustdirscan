@@ -1,0 +1,11 @@
+F:\code\rustdirscan\target\release\deps\unicode_segmentation-960d0720a1fdee88.rmeta: C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\lib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\grapheme.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\sentence.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\word.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\tables.rs
+
+F:\code\rustdirscan\target\release\deps\libunicode_segmentation-960d0720a1fdee88.rlib: C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\lib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\grapheme.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\sentence.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\word.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\tables.rs
+
+F:\code\rustdirscan\target\release\deps\unicode_segmentation-960d0720a1fdee88.d: C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\lib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\grapheme.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\sentence.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\word.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\tables.rs
+
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\lib.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\grapheme.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\sentence.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\word.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.9.0\src\tables.rs:

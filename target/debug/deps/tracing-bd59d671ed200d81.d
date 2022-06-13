@@ -1,0 +1,13 @@
+f:\code\rustdirscan\target\debug\deps\tracing-bd59d671ed200d81.rmeta: C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\lib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\macros.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\dispatcher.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\field.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\instrument.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\level_filters.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\span.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\stdlib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\subscriber.rs
+
+f:\code\rustdirscan\target\debug\deps\tracing-bd59d671ed200d81.d: C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\lib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\macros.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\dispatcher.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\field.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\instrument.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\level_filters.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\span.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\stdlib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\subscriber.rs
+
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\lib.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\macros.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\dispatcher.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\field.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\instrument.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\level_filters.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\span.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\stdlib.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.35\src\subscriber.rs:

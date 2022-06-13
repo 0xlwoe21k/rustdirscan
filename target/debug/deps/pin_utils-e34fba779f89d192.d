@@ -1,0 +1,7 @@
+f:\code\rustdirscan\target\debug\deps\pin_utils-e34fba779f89d192.rmeta: C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\pin-utils-0.1.0\src\lib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\pin-utils-0.1.0\src\stack_pin.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\pin-utils-0.1.0\src\projection.rs
+
+f:\code\rustdirscan\target\debug\deps\pin_utils-e34fba779f89d192.d: C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\pin-utils-0.1.0\src\lib.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\pin-utils-0.1.0\src\stack_pin.rs C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\pin-utils-0.1.0\src\projection.rs
+
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\pin-utils-0.1.0\src\lib.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\pin-utils-0.1.0\src\stack_pin.rs:
+C:\Users\0xkda\.cargo\registry\src\github.com-1ecc6299db9ec823\pin-utils-0.1.0\src\projection.rs:

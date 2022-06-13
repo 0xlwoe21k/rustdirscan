@@ -1,5 +1,5 @@
 use std::path::PathBuf;
-
+use std::time::{ Instant};
 use structopt::StructOpt;
 mod scanner;
 mod util;
@@ -17,10 +17,23 @@ struct Opt {
     #[structopt(short, long)]
     rand_user_agent: bool,
 }
-fn main() {
-    let opt = Opt::from_args();
-    
-    let payloads = util::get_payloads(opt.poc_path.to_str());
 
-    let scanner = scanner::Scanner::new(opt.url, payloads)
+#[tokio::main]
+async fn main() {
+    let now = Instant::now();
+    let opt = Opt::from_args();
+    let mut file_path = "";
+    if let Some(p) = opt.poc_path.to_str() {
+        file_path = p;
+    }
+
+    let mut payloads: Vec<String> = Vec::new();
+    if let Some(f) = util::get_payloads(file_path) {
+        payloads = f;
+    }
+
+    let scanner = scanner::Scanner::new(opt.url, payloads, opt.rand_user_agent);
+    scanner.run().await;
+
+    println!("time: {}", now.elapsed().as_secs());
 }
